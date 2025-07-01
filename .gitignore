@@ -1,0 +1,19 @@
+# Ignore flan model files
+
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore virtual environments
+.env/
+venv/
+ENV/
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore logs and checkpoints
+*.log
+*.ckpt
