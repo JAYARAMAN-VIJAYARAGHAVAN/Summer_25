@@ -1,0 +1,2 @@
+crypto/data/flan_t5_finetuned_crypto_model_predictive_* filter=lfs diff=lfs merge=lfs -text
+crypto/~/* filter=lfs diff=lfs merge=lfs -text
