@@ -1,0 +1,11 @@
+export const SPECIALIZATIONS = [
+    'CARDIOLOGY',
+    'DERMATOLOGY',
+    'PEDIATRICS',
+    'ORTHOPEDICS',
+    'NEUROLOGY',
+    'GENERAL_PRACTICE',
+    'RADIOLOGY',
+    'ONCOLOGY'
+  ];
+  
